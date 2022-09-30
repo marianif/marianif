@@ -19,6 +19,7 @@ In 2021 I decided to follow my passion deepining my frontend skills... and here 
 - Expo
 - Express [**_elementary_**]
 - Hardhat [**_intermediate_**]
+- Mocha / Chai [**_elementary_**]
 
 ### ☁️ Cloud Platforms:
 - Firebase [**_intermediate_**]

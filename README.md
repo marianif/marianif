@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Federica from Italy..
+I'm Federica from Italy... I started my journey in the Web World in 2019 after a Specialization Course (Master di I Livello) at University Of Turin, which gave me the fundamentals of web development. 
+Afterwards I worked for a blockchain startup in the business incubator of the Polytechnic of Turin and free-lancing as web developer (wordpress, html, css) at the same time. 
+In 2021 I decided to follow my passion deepining my frontend skills... and here I am, actively looking for a Job in this field! 😎
 
 ## ✨ Skills:
 ### 🖥️ Languages:
@@ -10,6 +12,7 @@ I'm Federica from Italy..
 - GraphQL [**_elementary/intermediate_**]
 
 ### 🔨 Libraries and Framework
+- jQuery
 - React / React Native
 - Next.js [**_intermediate_**]
 - Redux / Redux Toolkit
@@ -23,7 +26,7 @@ I'm Federica from Italy..
 
 
 ### 🔭 I’m currently working on [Seetizen](https://seetizen.co)
-- **Seetizen** is an indipendent, no-profit and free **social media platform** born to connect and engage communities on a local level.
+- **Seetizen** is an indipendent, no-profit and free **social media platform** born to connect and engage communities on a local level. It's my first-ever cloud full stack project currently on Beta Testing 
 
 
 #### 🌱 I’m currently learning *Solidity* and *Web3*

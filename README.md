@@ -9,7 +9,7 @@ In 2021 I decided to follow my passion deepining my frontend skills... and here 
 - HTML, CSS, Javascript 
 - Solidity [**_intermediate_**]
 - PHP [**_elementary_**]
-- GraphQL [**_elementary/intermediate_**]
+- GraphQL [**_elementary_**]
 
 ### 🔨 Libraries and Framework
 - jQuery

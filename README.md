@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Federica from Italy... I started my journey in the Web World in 2019 after a Specialization Course (Master di I Livello) at University Of Turin, which gave me the fundamentals of web development. 
-Afterwards I worked for a blockchain startup in the business incubator of the Polytechnic of Turin and free-lancing as web developer (wordpress, html, css) at the same time. 
-In 2021 I decided to follow my passion deepining my frontend skills... and here I am, actively looking for a Job in this field! 😎
+I'm Federica from Italy... I'm an advanced junior frontend developer and junior blockchain dev. I love React Native, Technology with purpose and Turin the city I Live in. I like learning new frameworks and libraries and I'm currently publishing my first full-stack app, check-out in the bio below! 😎
+
+##### Look at my coding solutions on [Codewars](https://www.codewars.com/users/marianif)
 
 ## ✨ Skills:
 ### 🖥️ Languages:

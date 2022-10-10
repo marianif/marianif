@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Federica from Italy... I'm an advanced junior frontend developer and junior blockchain dev. I love React Native, Technology with purpose and Turin the city I Live in. I like learning new frameworks and libraries and I'm currently publishing my first full-stack app, check-out in the bio below! 😎
+I'm Federica from Italy... I'm an advanced junior frontend developer and junior blockchain dev. I love React Native, Technology with purpose and Turin the city I Live in. I like learning new frameworks and libraries and I'm currently publishing my first full-stack app - [Seetizen](https://seetizen.co), check-it out! 😎
 
 ##### Look at my coding solutions on [Codewars](https://www.codewars.com/users/marianif)
 

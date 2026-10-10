@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Federica**, a product-minded software engineer from Turin, Italy 🇮🇹.
+I'm **Federica**, a product-minded software builder from Turin, Italy 🇮🇹.
 
 I build mobile-first and web products with **React Native + Expo, Next.js and TypeScript** — and I spend most of my time these days in **open-source AI**: local-first, BYOK, model-agnostic tooling I can actually read, fork and own.
 
